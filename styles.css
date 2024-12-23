@@ -1,0 +1,6 @@
+.tacoLeft{
+    width: 550px; height: 420px;
+    background-image: url('./img/queso-taco.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
